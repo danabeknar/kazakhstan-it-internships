@@ -1,0 +1,1 @@
+# kazakhstan-it-internships
