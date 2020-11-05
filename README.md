@@ -17,6 +17,7 @@ We do not have many internships here, but nevertheless, students and graduates f
 | Home Credit Bank | IT Hub              | ?                |   ?   | Java, Data Analytics, Regression Testing             | 15.11.2020 | [click](https://promo.homecredit.kz/ithub/)  |
 | One Technologies | One Lab             | Remote           |   -   | Backend Go, Frontend Web, Mobile iOS, Mobile Android | 27.11.2020 | [click](https://lab.one.kz/)                 |
 | Wooppay          | Лаборатория Wooppay | Karagandy        |   ?   | UX/UI Design, PHP, Mobile iOS, Project Management    | ?          | [click](https://landing.wooppay.com/academy) |
+| EPAM Kazakhstan | Training Center | Remote | - | Automated Testing, Software Testing Introduction, Javascript | Multiple | [click](https://training.epam.kz/#!/Home?lang=ru&City=203,44,43)
 
 ## Internships to consider anytime:
 
