@@ -4,9 +4,11 @@
 
 ## Motivation
 
-Highly qualified specialists are always in demand, especially in IT sphere. And now, as software development industry is growing rapidly in Kazakhstan it's important to be aware what opportunies we have.
+Highly qualified specialists are always in demand, especially in the IT-sphere. And now, as the software development industry is growing rapidly in Kazakhstan it's important to be aware of what opportunities we have.
 
-We do not have many internships here, but nevertheless, students and graduates face the problem of not being aware what internships are happening/will be in the near future. Let this repository be a little help from me for anyone looking for an internship, cheers 😉
+We do not have many internships here, nevertheless, students and graduates face the problem of not being aware of what internships are happening/will be soon. Let this repository be a little help from me for anyone looking for an internship, cheers 😉
+
+> Please click the `watch` button on the top right to be notified of all updates. 
 
 ## Kazakhstani internship opportunities:
 
@@ -21,14 +23,15 @@ We do not have many internships here, but nevertheless, students and graduates f
 
 ## Internships to consider anytime:
 
-| Company name          | Internship          | Link                                                                                                                        |
-| --------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Alfabank              | Alfa Start          | [click](https://alfabank.kz/footer/hr/alfastart)                                                                            |
-| Halyk Bank            | Halyk Start         | [click](https://bluescreen.kz/digital-kazakhstan/oplachivaemaja-stazhirovka-dlja-studentov-it-specialnostej-ot-halyk-bank/) |
-| KazDream Technologies | -                   | [click](https://kazdream.kz/en/join/)                                                                                       |
-| KazPost               | -                   | [click](https://www.kazpost.kz/ru/internship)                                                                               |
-| Beeline               | -                   | [click](https://beeline.kz/ru/hr/internship)                                                                                |
-| Chocofamily           | Chocodev Internship | [click](https://chocofamily.kz/ourinternship)                                                                               |
+| Company name          | Internship          | Link                                                                                                                        | Extra information
+| --------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Alfabank              | Alfa Start          | [click](https://alfabank.kz/footer/hr/alfastart)                                                                            | - |
+| Halyk Bank            | Halyk Start         | [click](https://bluescreen.kz/digital-kazakhstan/oplachivaemaja-stazhirovka-dlja-studentov-it-specialnostej-ot-halyk-bank/) | - |
+| KazDream Technologies | -                   | [click](https://kazdream.kz/en/join/)                                                                                       | - |
+| KazPost               | -                   | [click](https://www.kazpost.kz/ru/internship)                                                                               | - |
+| Beeline               | -                   | [click](https://beeline.kz/ru/hr/internship)                                                                                | - |
+| Chocofamily           | Chocodev Internship | [click](https://chocofamily.kz/ourinternship)                                                                               | - |
+| Aviata&Chocotravel | - | [click](https://www.notion.so/Aviata-Chocotravel-62a81371cd534d5ab4b35fceee1b74ac) | Frontend (JavaScript) & Backend (Python) |
 
 ## Contributing
 
