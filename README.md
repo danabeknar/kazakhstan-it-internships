@@ -31,7 +31,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | KazPost               | -                   | [click](https://www.kazpost.kz/ru/internship)                                                                               | - |
 | Beeline               | -                   | [click](https://beeline.kz/ru/hr/internship)                                                                                | - |
 | Chocofamily           | Chocodev Internship | [click](https://chocofamily.kz/ourinternship)                                                                               | - |
-| Aviata&Chocotravel | - | [click](https://www.notion.so/Aviata-Chocotravel-62a81371cd534d5ab4b35fceee1b74ac) | Frontend (JavaScript) & Backend (Python) |
+| Aviata&Chocotravel | - | [click](https://www.notion.so/Aviata-Chocotravel-62a81371cd534d5ab4b35fceee1b74ac) | Frontend (JavaScript), Backend (Python), Android (Java/Kotlin), iOS (Swift/Objective-C) |
 
 ## Contributing
 
