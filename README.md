@@ -19,19 +19,19 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Home Credit Bank | IT Hub              | ?                |   ?   | Java, Data Analytics, Regression Testing             | 15.11.2020 | [click](https://promo.homecredit.kz/ithub/)  |
 | One Technologies | One Lab             | Remote           |   -   | Backend Go, Frontend Web, Mobile iOS, Mobile Android | 27.11.2020 | [click](https://lab.one.kz/)                 |
 | Wooppay          | Лаборатория Wooppay | Karagandy        |   ?   | UX/UI Design, PHP, Mobile iOS, Project Management    | ?          | [click](https://landing.wooppay.com/academy) |
-| EPAM Kazakhstan | Training Center | Remote | - | Automated Testing, Software Testing Introduction, Javascript | Multiple | [click](https://training.epam.kz/#!/Home?lang=ru&City=203,44,43)
 
 ## Internships to consider anytime:
 
 | Company name          | Internship          | Link                                                                                                                        | Extra information
 | --------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- |
+| EPAM Kazakhstan       | Training Center     | [click](https://training.epam.kz/#!/Home?lang=ru&City=203,44,43) | Automated Testing, Software Testing Introduction, Javascript, .NET (Web) |
+| Aviata&Chocotravel    | -             | [click](https://www.notion.so/Aviata-Chocotravel-62a81371cd534d5ab4b35fceee1b74ac) | Frontend (JavaScript), Backend (Python), Android (Java/Kotlin), iOS (Swift/Objective-C) |
 | Alfabank              | Alfa Start          | [click](https://alfabank.kz/footer/hr/alfastart)                                                                            | - |
 | Halyk Bank            | Halyk Start         | [click](https://bluescreen.kz/digital-kazakhstan/oplachivaemaja-stazhirovka-dlja-studentov-it-specialnostej-ot-halyk-bank/) | - |
 | KazDream Technologies | -                   | [click](https://kazdream.kz/en/join/)                                                                                       | - |
 | KazPost               | -                   | [click](https://www.kazpost.kz/ru/internship)                                                                               | - |
 | Beeline               | -                   | [click](https://beeline.kz/ru/hr/internship)                                                                                | - |
 | Chocofamily           | Chocodev Internship | [click](https://chocofamily.kz/ourinternship)                                                                               | - |
-| Aviata&Chocotravel | - | [click](https://www.notion.so/Aviata-Chocotravel-62a81371cd534d5ab4b35fceee1b74ac) | Frontend (JavaScript), Backend (Python), Android (Java/Kotlin), iOS (Swift/Objective-C) |
 
 ## Contributing
 
