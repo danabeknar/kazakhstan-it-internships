@@ -19,7 +19,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Home Credit Bank | IT Hub              | ?                |   ?   | Java, Data Analytics, Regression Testing             | 15.11.2020 | [click](https://promo.homecredit.kz/ithub/)  |
 | One Technologies | One Lab             | Remote           |   -   | Backend Go, Frontend Web, Mobile iOS, Mobile Android | 27.11.2020 | [click](https://lab.one.kz/)                 |
 | Wooppay          | Лаборатория Wooppay | Karagandy        |   ?   | UX/UI Design, PHP, Mobile iOS, Project Management    | ?          | [click](https://landing.wooppay.com/academy) |
-| Chocofamily      | ChocoDevinternship  | Almaty           |   +   | Backend/Frontend, Mobile iOS/Android, DevOps         | 17.12.2020 | [click](https://chocofamily.kz/internship) |
+| Chocofamily      | ChocoDevInternship  | Almaty  |   +   | Backend (PHP, Python), Frontend (JS, Angular, VUE), Mobile iOS (Objective-C, Swift), Mobile Android (Java, Kotlin), DevOps, QA         | 17.12.2020 | [click](https://chocofamily.kz/internship) |
 
 ## Internships to consider anytime:
 
@@ -32,7 +32,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | KazDream Technologies | -                   | [click](https://kazdream.kz/en/join/)                                                                                       | - |
 | KazPost               | -                   | [click](https://www.kazpost.kz/ru/internship)                                                                               | - |
 | Beeline               | -                   | [click](https://beeline.kz/ru/hr/internship)                                                                                | - |
-| Chocofamily           | Chocodev Internship | [click](https://chocofamily.kz/ourinternship)                                                                               | - |
+| Chocofamily           | ChocodevInternship | [click](https://chocofamily.kz/ourinternship)                                                                               | - |
 
 ## Contributing
 
