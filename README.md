@@ -20,6 +20,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | One Technologies | One Lab             | Remote           |   -   | Backend Go, Frontend Web, Mobile iOS, Mobile Android | 27.11.2020 | [click](https://lab.one.kz/)                 |
 | Wooppay          | Лаборатория Wooppay | Karagandy        |   ?   | UX/UI Design, PHP, Mobile iOS, Project Management    | ?          | [click](https://landing.wooppay.com/academy) |
 | Chocofamily      | ChocoDevInternship  | Almaty  |   +   | Backend (PHP, Python), Frontend (JS, Angular, VUE), Mobile iOS (Objective-C, Swift), Mobile Android (Java, Kotlin), DevOps, QA         | 17.12.2020 | [click](https://chocofamily.kz/internship) |
+| Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  Product Management  | 08.02.2021 | [click](https://upgrade.kolesa.group/management) |
 
 ## Internships to consider anytime:
 
