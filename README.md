@@ -21,6 +21,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Wooppay          | Лаборатория Wooppay | Karagandy        |   ?   | UX/UI Design, PHP, Mobile iOS, Project Management    | ?          | [click](https://landing.wooppay.com/academy) |
 | Chocofamily      | ChocoDevInternship  | Almaty  |   +   | Backend (PHP, Python), Frontend (JS, Angular, VUE), Mobile iOS (Objective-C, Swift), Mobile Android (Java, Kotlin), DevOps, QA         | 17.12.2020 | [click](https://chocofamily.kz/internship) |
 | Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  Product Management  | 08.02.2021 | [click](https://upgrade.kolesa.group/management) |
+| Kaspi Bank       | Kaspi Lab           | Almaty           |   -   | Data Science, .NET, Java                             | 22.02.2021 | [click](https://lab.kaspi.kz/)               |
 
 ## Internships to consider anytime:
 
