@@ -22,6 +22,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Chocofamily      | ChocoDevInternship  | Almaty  |   +   | Backend (PHP, Python), Frontend (JS, Angular, VUE), Mobile iOS (Objective-C, Swift), Mobile Android (Java, Kotlin), DevOps, QA         | 17.12.2020 | [click](https://chocofamily.kz/internship) |
 | Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  Product Management  | 08.02.2021 | [click](https://upgrade.kolesa.group/management) |
 | Kaspi Bank       | Kaspi Lab           | Almaty           |   -   | Data Science, .NET, Java                             | 22.02.2021 | [click](https://lab.kaspi.kz/)               |
+| Samruk-Kazyna    | Digital Summer    | Almaty, Nur-Sultan |   +   | Software Development (PHP, Python, Ruby, Node.js, .NET), UX/UI Design, Business/Data Analytics, System/Network Administration | 31.03.2021 | [click](https://digital-summer.sk.kz/ru/page/about) |
 
 ## Internships to consider anytime:
 
