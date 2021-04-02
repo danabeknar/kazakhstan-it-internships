@@ -23,6 +23,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  Product Management  | 08.02.2021 | [click](https://upgrade.kolesa.group/management) |
 | Kaspi Bank       | Kaspi Lab           | Almaty           |   -   | Data Science, .NET, Java                             | 22.02.2021 | [click](https://lab.kaspi.kz/)               |
 | Samruk-Kazyna    | Digital Summer    | Almaty, Nur-Sultan |   +   | Software Development (PHP, Python, Ruby, Node.js, .NET), UX/UI Design, Business/Data Analytics, System/Network Administration | 31.03.2021 | [click](https://digital-summer.sk.kz/ru/page/about) |
+| Beeline    | Digital Generation    | ? |   +   | 10 professional directions (IT included)  | ? (previous year - 15.05.2020 | [click](https://www.linkedin.com/feed/update/urn:li:activity:6778274442947760128/)/[previous year](https://beeline.kz/ru/hr/internship-at-beeline) |
 
 ## Internships to consider anytime:
 
