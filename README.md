@@ -25,7 +25,9 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Samruk-Kazyna    | Digital Summer    | Almaty, Nur-Sultan |   +   | Software Development (PHP, Python, Ruby, Node.js, .NET), UX/UI Design, Business/Data Analytics, System/Network Administration | 31.03.2021 | [click](https://digital-summer.sk.kz/ru/page/about) |
 | Beeline    | Digital Generation    | ? |   +   | 10 professional directions (IT included)  | ? (previous year - 15.05.2020 | [click](https://www.linkedin.com/feed/update/urn:li:activity:6778274442947760128/)/[previous year](https://beeline.kz/ru/hr/internship-at-beeline) |
 | Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  Web QA Automation  | 26.04.2021 | [click](https://upgrade.kolesa.group/) |
-| One Technologies  | One Lab         | Remote  |   +   | Backend (Go, Scala, Java) | 17.05.2021 | [click](https://lab.one.kz)           
+| One Technologies  | One Lab         | Remote  |   +   | Backend (Go, Scala, Java) | 17.05.2021 | [click](https://lab.one.kz) |
+| Kcell  | KcellBigData | ? | ? | Business Analytics, Data Science, Data Engineering, DevOps | 09.05.2021 | [click](https://www.linkedin.com/feed/update/urn:li:activity:6795888432456454144) |
+        
 ## Internships to consider anytime:
 
 | Company name          | Internship          | Link                                                                                                                        | Extra information
