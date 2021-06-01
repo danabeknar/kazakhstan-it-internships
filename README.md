@@ -27,6 +27,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  Web QA Automation  | 26.04.2021 | [click](https://upgrade.kolesa.group/) |
 | One Technologies  | One Lab         | Remote  |   +   | Backend (Go, Scala, Java) | 17.05.2021 | [click](https://lab.one.kz) |
 | Kcell  | KcellBigData | ? | ? | Business Analytics, Data Science, Data Engineering, DevOps | 09.05.2021 | [click](https://www.linkedin.com/feed/update/urn:li:activity:6795888432456454144) |
+| Kolesa Group | Kolesa Academy  | ?  |   +   |  PHP  | 23.06.2021 | [click](https://job.kolesa.kz/academy) |
         
 ## Internships to consider anytime:
 
