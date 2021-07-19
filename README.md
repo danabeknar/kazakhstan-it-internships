@@ -29,6 +29,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Kcell  | KcellBigData | ? | ? | Business Analytics, Data Science, Data Engineering, DevOps | 09.05.2021 | [click](https://www.linkedin.com/feed/update/urn:li:activity:6795888432456454144) |
 | Kolesa Group | Kolesa Academy  | ?  |   +   |  PHP  | 23.06.2021 | [click](https://job.kolesa.kz/academy) |
 | PMI Kazakhstan | -  | Remote/Nur-Sultan  |   ?   |  Android (Java/Kotlin), iOS (Objective-C/Swift), Cross-platform mobile development  | 10.06.2021 | [click](http://pmiqaz.org/) |
+| Kolesa Group | Kolesa Academy | Almaty |   +   |  QA  | 22.08.2021 | [click](https://job.kolesa.kz/academy#qa-vacancy) |
         
 ## Internships to consider anytime:
 
