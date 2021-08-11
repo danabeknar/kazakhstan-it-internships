@@ -30,7 +30,8 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Kolesa Group | Kolesa Academy  | ?  |   +   |  PHP  | 23.06.2021 | [click](https://job.kolesa.kz/academy) |
 | PMI Kazakhstan | -  | Remote/Nur-Sultan  |   ?   |  Android (Java/Kotlin), iOS (Objective-C/Swift), Cross-platform mobile development  | 10.06.2021 | [click](http://pmiqaz.org/) |
 | Kolesa Group | Kolesa Academy | Almaty |   +   |  QA  | 22.08.2021 | [click](https://job.kolesa.kz/academy#qa-vacancy) |
-        
+| Kolesa Group | Kolesa Upgrade | Remote |   -   |  Frontend  | 10.09.2021 | [click](https://upgrade.kolesa.group/frontend) |       
+ 
 ## Internships to consider anytime:
 
 | Company name          | Internship          | Link                                                                                                                        | Extra information
