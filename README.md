@@ -36,7 +36,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name          | Internship          | Link                                                                                                                        | Extra information
 | --------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- |
-| EPAM Kazakhstan       | Training Center     | [click](https://training.epam.kz/#!/Home?lang=ru&City=203,44,43) | Automated Testing, Software Testing Introduction, Javascript, .NET (Web), Java |
+| EPAM Kazakhstan       | Training Center     | [click](https://training.epam.kz/#!/Home?lang=ru&City=203,44,43) | Automated Testing, Software Testing Introduction, Javascript, .NET (Web), Java, DevOps |
 | Aviata&Chocotravel    | -             | [click](https://www.notion.so/Aviata-Chocotravel-62a81371cd534d5ab4b35fceee1b74ac) | Frontend (JavaScript), Backend (Python), Android (Java/Kotlin), iOS (Swift/Objective-C) |
 | Alfabank              | Alfa Start          | [click](https://alfabank.kz/footer/hr/alfastart)                                                                            | - |
 | Halyk Bank            | Halyk Start         | [click](https://bluescreen.kz/digital-kazakhstan/oplachivaemaja-stazhirovka-dlja-studentov-it-specialnostej-ot-halyk-bank/) | - |
