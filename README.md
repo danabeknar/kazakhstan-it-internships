@@ -31,7 +31,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | PMI Kazakhstan | -  | Remote/Nur-Sultan  |   ?   |  Android (Java/Kotlin), iOS (Objective-C/Swift), Cross-platform mobile development  | 10.06.2021 | [click](http://pmiqaz.org/) |
 | Kolesa Group | Kolesa Academy | Almaty |   +   |  QA  | 22.08.2021 | [click](https://job.kolesa.kz/academy#qa-vacancy) |
 | Kolesa Group | Kolesa Upgrade | Remote |   -   |  Frontend  | 10.09.2021 | [click](https://upgrade.kolesa.group/frontend) |       
-| Sprint Squads | S10S | Almaty |   ?   |  Backend (Go), Frontend (Typescript), iOS (Swift), Android (Kotlin)   | 01.10.2021 | [click](https://sprintsquads.com/blog/sprint-squads-otkryvaet-ezhegodnyy-nabor-na-stazhirovku) |     
+| Sprint Squads | S10S | Almaty |   ?   |  Backend (Go, Java), Frontend (Angular, Vue), iOS (Swift), Android (Kotlin), QA   | 01.10.2021 | [click](https://sprintsquads.com/blog/sprint-squads-otkryvaet-ezhegodnyy-nabor-na-stazhirovku) |     
 
 ## Internships to consider anytime:
 
