@@ -34,7 +34,10 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Sprint Squads | S10S | Almaty |   ?   |  Backend (Go, Java), Frontend (Angular, Vue), iOS (Swift), Android (Kotlin), QA   | 01.10.2021 | [click](https://sprintsquads.com/blog/sprint-squads-otkryvaet-ezhegodnyy-nabor-na-stazhirovku) |
 | Kaspi.kz | Kaspi Lab | Remote |  -   |  Data Engineering   | 21.10.2021 | [click](https://www.instagram.com/p/CU4Cbvssb1v/?utm_medium=copy_link)/[click](https://lab.kaspi.kz/) |
 | Kaspi.kz | Kaspi Lab | Remote+Almaty |  +   |  Product Management   | 19.11.2021 |[click](https://www.linkedin.com/posts/kaspi-kz_kaspi-lab-%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D1%8F%D0%B5%D1%82-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BD%D0%B0-%D0%BE%D0%BF%D0%BB%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%83%D1%8E-activity-6863695489938800640-Fmn2) |
-| Chocofamily | ChocoDev Internship | Almaty |   +  |  Frontend, Backend (Python), iOS, Android  | 12.12.2021 | [click](https://chocofamily.kz/internship.html) |       
+| Chocofamily | ChocoDev Internship | Almaty |   +  |  Frontend, Backend (Python), iOS, Android  | 12.12.2021 | [click](https://chocofamily.kz/internship.html) 
+| Jusan Bank | JUSAN SINGULARITY | ? |   +  |  Backend (Java), Frontend, iOS, Android, Devops  | Limited number of places | [click](https://jusan.kz/jusan-singularity) |
+| Kolesa Group | Kolesa Academy | Almaty |   +   |  PHP  | 20.02.2022 | [click](https://job.kolesa.kz/academy#php-vacancy) |
+| Kolesa Group | Kolesa Academy | Almaty |   +   |  Data Analyst  | 25.02.2022 | [click](https://job.kolesa.kz/academy#ds-vacancy) |       
 
 ## Internships to consider anytime:
 
