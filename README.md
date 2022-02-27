@@ -37,7 +37,9 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Chocofamily | ChocoDev Internship | Almaty |   +  |  Frontend, Backend (Python), iOS, Android  | 12.12.2021 | [click](https://chocofamily.kz/internship.html) 
 | Jusan Bank | JUSAN SINGULARITY | ? |   +  |  Backend (Java), Frontend, iOS, Android, Devops  | Limited number of places | [click](https://jusan.kz/jusan-singularity) |
 | Kolesa Group | Kolesa Academy | Almaty |   +   |  PHP  | 20.02.2022 | [click](https://job.kolesa.kz/academy#php-vacancy) |
-| Kolesa Group | Kolesa Academy | Almaty |   +   |  Data Analyst  | 25.02.2022 | [click](https://job.kolesa.kz/academy#ds-vacancy) |       
+| Kolesa Group | Kolesa Academy | Almaty |   +   |  Data Analyst  | 25.02.2022 | [click](https://job.kolesa.kz/academy#ds-vacancy) |
+| Petrel AI | Frontend Development Program | ? |   +   |  Frontend  | ? | [click](https://www.instagram.com/p/CaPCWwmMbi-/) |
+| One Technologies | One Lab             | Remote           |   +   | QA, Angular, iOS, React, Scala, Java, Business Analytics  | 11.03.2022 | [click](https://lab.one.kz) |
 
 ## Internships to consider anytime:
 
