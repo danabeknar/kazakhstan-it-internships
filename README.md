@@ -40,6 +40,10 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Kolesa Group | Kolesa Academy | Almaty |   +   |  Data Analyst  | 25.02.2022 | [click](https://job.kolesa.kz/academy#ds-vacancy) |
 | Petrel AI | Frontend Development Program | ? |   +   |  Frontend  | ? | [click](https://www.instagram.com/p/CaPCWwmMbi-/) |
 | One Technologies | One Lab             | Remote           |   +   | QA, Angular, iOS, React, Scala, Java, Business Analytics  | 11.03.2022 | [click](https://lab.one.kz) |
+| Arcana Inc. | Arcana Стажировка | Remote/Almaty |   -   | iOS, Android, Python, React, UX/UI, Management  | 20.04.2022 | [click](https://www.instagram.com/p/CcAYxxvjCzv/) |
+| nFactorial School | nFactorial Incubator | Almaty |   -   | Web development  | 30.04.2022 | [click](https://www.instagram.com/p/Cb-BRF-sXAt/) |
+
+
 
 ## Internships to consider anytime:
 
@@ -53,6 +57,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | KazPost               | -                   | [click](https://www.kazpost.kz/ru/internship)                                                                               | - |
 | Beeline               | -                   | [click](https://beeline.kz/ru/hr/internship)                                                                                | - |
 | Chocofamily           | ChocodevInternship | [click](https://chocofamily.kz/ourinternship)                                                                               | - |
+
 
 ## Contributing
 
