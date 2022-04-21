@@ -42,6 +42,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | One Technologies | One Lab             | Remote           |   +   | QA, Angular, iOS, React, Scala, Java, Business Analytics  | 11.03.2022 | [click](https://lab.one.kz) |
 | Arcana Inc. | Arcana Стажировка | Remote/Almaty |   -   | iOS, Android, Python, React, UX/UI, Management  | 20.04.2022 | [click](https://www.instagram.com/p/CcAYxxvjCzv/) |
 | nFactorial School | nFactorial Incubator | Almaty |   -   | Web development  | 30.04.2022 | [click](https://www.instagram.com/p/Cb-BRF-sXAt/) |
+| Jusan Bank | JUSAN SINGULARITY | Nur-Sultan |   +  |  Java Backend, Frontend, IOS, Android, DevOps  | ? | [click](https://singularity.camp/) |
 
 
 
