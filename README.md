@@ -43,6 +43,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Arcana Inc. | Arcana Стажировка | Remote/Almaty |   -   | iOS, Android, Python, React, UX/UI, Management  | 20.04.2022 | [click](https://www.instagram.com/p/CcAYxxvjCzv/) |
 | nFactorial School | nFactorial Incubator | Almaty |   -   | Web development  | 30.04.2022 | [click](https://www.instagram.com/p/Cb-BRF-sXAt/) |
 | Jusan Bank | JUSAN SINGULARITY | Nur-Sultan |   +  |  Java Backend, Frontend, IOS, Android, DevOps  | ? | [click](https://singularity.camp/) |
+| Kolesa Group | Kolesa Academy | Almaty |   +  |  Mobile iOS  | 05.06.2022 | [click](https://job.kolesa.kz/academy/) |
 
 
 
