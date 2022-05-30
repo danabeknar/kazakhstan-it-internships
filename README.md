@@ -45,6 +45,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Jusan Bank | JUSAN SINGULARITY | Nur-Sultan |   +  |  Java Backend, Frontend, IOS, Android, DevOps  | ? | [click](https://singularity.camp/) |
 | Kolesa Group | Kolesa Academy | Almaty |   +  |  Mobile iOS  | 05.06.2022 | [click](https://job.kolesa.kz/academy/) |
 | One Technologies | One Lab | Almaty |   +  |  Backend GO  | 25.05.2022 | [click](https://lab.one.kz) |
+| STRONG te.am | - | Almaty | + | iOS, Android, Java Backend | 07.06.2022 | [click](http://tiny.cc/strongteaminternship) |
 
 
 
