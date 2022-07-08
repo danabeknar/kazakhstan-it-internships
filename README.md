@@ -58,6 +58,14 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Beeline               | -                   | [click](https://beeline.kz/ru/hr/internship)                                                                                | - |
 | Chocofamily           | ChocodevInternship | [click](https://chocofamily.kz/ourinternship)                                                                               | - |
 
+## Education:
+
+| Name          | Link | Tuition fee? | Extra information
+| --------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Alem School       | [click](https://alem.school/) | - | First programming school in Central Asia based on the principles of mutual learning |
+| nFactorial School | [click](https://www.nfactorial.school/) | + | Онлайн-школа подготовки разработчиков  |
+| QWANT | [click](https://qwant.kz/) | + | Silicon Valley Certified Programming School |
+
 
 ## Contributing
 
