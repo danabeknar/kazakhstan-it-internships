@@ -15,6 +15,9 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   | Link                                         |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- | -------------------------------------------- |
 | Kaspi.kz | Kaspi Lab | Almaty | ? | MS SQL, Oracle | 22.07.2022? | [click](https://hr.kaspi.kz/data-base-administrator/) |
+| STRONG te.am | - | Almaty | + | iOS, Android, Java Backend | 07.06.2022 | [click](http://tiny.cc/strongteaminternship) |
+| One Technologies | One Lab | Almaty |   +  |  Backend GO  | 25.05.2022 | [click](https://lab.one.kz) |
+| Kolesa Group | Kolesa Academy | Almaty |   +  |  Mobile iOS  | 05.06.2022 | [click](https://job.kolesa.kz/academy/) |
 | Jusan Bank | JUSAN SINGULARITY | Nur-Sultan |   +  |  Java Backend, Frontend, IOS, Android, DevOps  | ? | [click](https://singularity.camp/) |
 | nFactorial School | nFactorial Incubator | Almaty |   -   | Web development  | 30.04.2022 | [click](https://www.instagram.com/p/Cb-BRF-sXAt/) |
 | Arcana Inc. | Arcana Стажировка | Remote/Almaty |   -   | iOS, Android, Python, React, UX/UI, Management  | 20.04.2022 | [click](https://www.instagram.com/p/CcAYxxvjCzv/) |
