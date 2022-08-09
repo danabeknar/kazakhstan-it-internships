@@ -14,6 +14,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   | Link                                         |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- | -------------------------------------------- |
+| Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  PHP & Go  | 28.08.2021 | [click](https://upgrade.kolesa.group/backend) |
 | Kaspi.kz | Kaspi Lab | Almaty | ? | MS SQL, Oracle | 22.07.2022? | [click](https://hr.kaspi.kz/data-base-administrator/) |
 | STRONG te.am | - | Almaty | + | iOS, Android, Java Backend | 07.06.2022 | [click](http://tiny.cc/strongteaminternship) |
 | One Technologies | One Lab | Almaty |   +  |  Backend GO  | 25.05.2022 | [click](https://lab.one.kz) |
@@ -47,7 +48,6 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Home Credit Bank | IT Hub              | ?                |   ?   | Java, Data Analytics, Regression Testing             | 15.11.2020 | [click](https://promo.homecredit.kz/ithub/)  |
 | Kolesa Group     | Kolesa Academy      | Remote           |   +   | PHP                                                  | 09.11.2020 | [click](https://job.kolesa.kz/academy)       |
 | Kaspi Bank       | Kaspi Lab           | Almaty           |   -   | Data Science, Data Engineering, iOS, Android         | 25.03.2020 | [click](https://lab.kaspi.kz/)               |
-| Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  PHP & Go  | 28.08.2021 | [click](https://upgrade.kolesa.group/backend) |
 
 
 
@@ -58,7 +58,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | --------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- |
 | EPAM Kazakhstan       | Training Center     | [click](https://training.epam.kz/#!/Home?lang=ru&City=203,44,43) | Automated Testing, Software Testing Introduction, Javascript, .NET (Web), Java, DevOps |
 | Aviata&Chocotravel    | -             | [click](https://www.notion.so/Aviata-Chocotravel-62a81371cd534d5ab4b35fceee1b74ac) | Frontend (JavaScript), Backend (Python), Android (Java/Kotlin), iOS (Swift/Objective-C) |
-| Halyk Bank            | Halyk Start         | [click](https://halykbank.kz/about/career/halyk-start) | Frontend, Backend, Mobile development, Data Science, UX/UI Design, QA, Analytics, IT Support, Information Security, and etc. |
+| Halyk Bank            | Halyk Start         | [click](https://bluescreen.kz/digital-kazakhstan/oplachivaemaja-stazhirovka-dlja-studentov-it-specialnostej-ot-halyk-bank/) | - |
 | Beeline               | -                   | [click](https://beeline.kz/ru/hr/internship)                                                                                | - |
 | Chocofamily           | ChocodevInternship | [click](https://chocofamily.kz/ourinternship)                                                                               | - |
 
