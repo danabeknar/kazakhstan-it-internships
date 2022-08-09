@@ -47,6 +47,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Home Credit Bank | IT Hub              | ?                |   ?   | Java, Data Analytics, Regression Testing             | 15.11.2020 | [click](https://promo.homecredit.kz/ithub/)  |
 | Kolesa Group     | Kolesa Academy      | Remote           |   +   | PHP                                                  | 09.11.2020 | [click](https://job.kolesa.kz/academy)       |
 | Kaspi Bank       | Kaspi Lab           | Almaty           |   -   | Data Science, Data Engineering, iOS, Android         | 25.03.2020 | [click](https://lab.kaspi.kz/)               |
+| Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  PHP & Go  | 28.08.2021 | [click](https://upgrade.kolesa.group/backend) |
 
 
 
