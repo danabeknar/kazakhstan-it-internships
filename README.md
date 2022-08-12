@@ -14,7 +14,8 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   | Link                                         |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- | -------------------------------------------- |
-| Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  PHP & Go  | 28.08.2021 | [click](https://upgrade.kolesa.group/backend) |
+| Halyk Bank        | Halyk Academy   | Remote  |   -   |  DevOps  | 25.08.2022 | [click](http://halykacademy.kz/DevOps) |
+| Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  PHP & Go  | 28.08.2022 | [click](https://upgrade.kolesa.group/backend) |
 | Kaspi.kz | Kaspi Lab | Almaty | ? | MS SQL, Oracle | 22.07.2022? | [click](https://hr.kaspi.kz/data-base-administrator/) |
 | STRONG te.am | - | Almaty | + | iOS, Android, Java Backend | 07.06.2022 | [click](http://tiny.cc/strongteaminternship) |
 | One Technologies | One Lab | Almaty |   +  |  Backend GO  | 25.05.2022 | [click](https://lab.one.kz) |
