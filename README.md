@@ -14,6 +14,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   | Link                                         |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- | -------------------------------------------- |
+| Akvelon      | .NET Internship  | Remote  |   +   |  OOP, C#, .NET, ASP.NET Core WebAPI, MSSQL/PostgreSQL/MySQL | 31.08.2022| [click](https://t.me/akvelon_KZ_jobs/86) |
 | Тинькофф Банк      | Tinkoff Start  | Nur-Sultan, Almaty  |   +   |  Analytics, QA-Engineering, SRE, Java, Frontend , Scala, .NET, Go, Android, IOS Development  | 16.08.2022| [click](https://fintech.tinkoff.ru/study/start/) |
 | Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  PHP & Go  | 28.08.2021 | [click](https://upgrade.kolesa.group/backend) |
 | Kaspi.kz | Kaspi Lab | Almaty | ? | MS SQL, Oracle | 22.07.2022? | [click](https://hr.kaspi.kz/data-base-administrator/) |
