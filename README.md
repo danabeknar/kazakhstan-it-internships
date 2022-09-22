@@ -14,6 +14,8 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   | Link                                         |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- | -------------------------------------------- |
+|  One Technologies | One Lab | ?  | + |  QA, Scala, Angular, iOS, Go, Android  | 05.10.2022 | [click](https://lab.one.kz/) |
+|  KazDream Technologies | Стажировка   | ?  | ? |  Angular, Go, DevOps, QA  | ? | [click](https://www.instagram.com/kazdream.kz/) |
 | Akvelon        | React.js   | Remote  |   +   |  React, Redux, TypeScript  | 28.08.2022 | [click](https://t.me/akvelon_KZ_jobs/88) |
 | Halyk Bank        | Halyk Academy   | Remote  |   -   |  DevOps  | 25.08.2022 | [click](http://halykacademy.kz/DevOps) |
 | Akvelon      | .NET Internship  | Remote  |   +   |  OOP, C#, .NET, ASP.NET Core WebAPI, MSSQL/PostgreSQL/MySQL | 28.08.2022| [click](https://t.me/akvelon_KZ_jobs/86) |
