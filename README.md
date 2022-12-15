@@ -10,56 +10,53 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 > Please click the `watch` button on the top right to be notified of all updates. 
 
-## Kazakhstani internship opportunities:
+## Kazakhstani internship opportunities
 
-| Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   | Link                                         |
-| ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- | -------------------------------------------- |
-|  Tinkoff Bank    |  Tinkoff Start      | Nur-Sultan, Almaty | +   | Analytics, QA-Engineering, SRE, Java, Frontend , Scala, .NET, Go, ML-engineer, Python, C++, Android, IOS Development | 21.12.2022 | [click](https://fintech.tinkoff.ru/start/) |
-|  One Technologies | One Lab | ?  | + |  QA, Scala, Angular, iOS, Go, Android  | 05.10.2022 | [click](https://lab.one.kz/) |
-|  KazDream Technologies | Стажировка   | ?  | ? |  Angular, Go, DevOps, QA  | ? | [click](https://www.instagram.com/kazdream.kz/) |
-| Akvelon        | React.js   | Remote  |   +   |  React, Redux, TypeScript  | 28.08.2022 | [click](https://t.me/akvelon_KZ_jobs/88) |
-| Halyk Bank        | Halyk Academy   | Remote  |   -   |  DevOps  | 25.08.2022 | [click](http://halykacademy.kz/DevOps) |
-| Akvelon      | .NET Internship  | Remote  |   +   |  OOP, C#, .NET, ASP.NET Core WebAPI, MSSQL/PostgreSQL/MySQL | 28.08.2022| [click](https://t.me/akvelon_KZ_jobs/86) |
-| Тинькофф Банк      | Tinkoff Start  | Nur-Sultan, Almaty  |   +   |  Analytics, QA-Engineering, SRE, Java, Frontend , Scala, .NET, Go, Android, IOS Development  | 16.08.2022| [click](https://fintech.tinkoff.ru/study/start/) |
-| Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  PHP & Go  | 28.08.2021 | [click](https://upgrade.kolesa.group/backend) |
-| Kaspi.kz | Kaspi Lab | Almaty | ? | MS SQL, Oracle | 22.07.2022? | [click](https://hr.kaspi.kz/data-base-administrator/) |
-| STRONG te.am | - | Almaty | + | iOS, Android, Java Backend | 07.06.2022 | [click](http://tiny.cc/strongteaminternship) |
-| One Technologies | One Lab | Almaty |   +  |  Backend GO  | 25.05.2022 | [click](https://lab.one.kz) |
-| Kolesa Group | Kolesa Academy | Almaty |   +  |  Mobile iOS  | 05.06.2022 | [click](https://job.kolesa.kz/academy/) |
-| Jusan Bank | JUSAN SINGULARITY | Nur-Sultan |   +  |  Java Backend, Frontend, IOS, Android, DevOps  | ? | [click](https://singularity.camp/) |
-| nFactorial School | nFactorial Incubator | Almaty |   -   | Web development  | 30.04.2022 | [click](https://www.instagram.com/p/Cb-BRF-sXAt/) |
-| Arcana Inc. | Arcana Стажировка | Remote/Almaty |   -   | iOS, Android, Python, React, UX/UI, Management  | 20.04.2022 | [click](https://www.instagram.com/p/CcAYxxvjCzv/) |
-| One Technologies | One Lab             | Remote           |   +   | QA, Angular, iOS, React, Scala, Java, Business Analytics  | 11.03.2022 | [click](https://lab.one.kz) |
-| Petrel AI | Frontend Development Program | ? |   +   |  Frontend  | ? | [click](https://www.instagram.com/p/CaPCWwmMbi-/) |
-| Kolesa Group | Kolesa Academy | Almaty |   +   |  Data Analyst  | 25.02.2022 | [click](https://job.kolesa.kz/academy#ds-vacancy) |
-| Kolesa Group | Kolesa Academy | Almaty |   +   |  PHP  | 20.02.2022 | [click](https://job.kolesa.kz/academy#php-vacancy) |
-| Chocofamily | ChocoDev Internship | Almaty |   +  |  Frontend, Backend (Python), iOS, Android  | 12.12.2021 | [click](https://chocofamily.kz/internship.html) 
-| Kaspi.kz | Kaspi Lab | Remote+Almaty |  +   |  Product Management   | 19.11.2021 |[click](https://www.linkedin.com/posts/kaspi-kz_kaspi-lab-%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D1%8F%D0%B5%D1%82-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BD%D0%B0-%D0%BE%D0%BF%D0%BB%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%83%D1%8E-activity-6863695489938800640-Fmn2) |
-| Kaspi.kz | Kaspi Lab | Remote |  -   |  Data Engineering   | 21.10.2021 | [click](https://www.instagram.com/p/CU4Cbvssb1v/?utm_medium=copy_link)/[click](https://lab.kaspi.kz/) |
-| Sprint Squads | S10S | Almaty |   ?   |  Backend (Go, Java), Frontend (Angular, Vue), iOS (Swift), Android (Kotlin), QA   | 01.10.2021 | [click](https://sprintsquads.com/blog/sprint-squads-otkryvaet-ezhegodnyy-nabor-na-stazhirovku) |
-| Kolesa Group | Kolesa Upgrade | Remote |   -   |  Frontend  | 10.09.2021 | [click](https://upgrade.kolesa.group/frontend) |   
-| Kolesa Group | Kolesa Academy | Almaty |   +   |  QA  | 22.08.2021 | [click](https://job.kolesa.kz/academy#qa-vacancy) |
-| PMI Kazakhstan | -  | Remote/Nur-Sultan  |   ?   |  Android (Java/Kotlin), iOS (Objective-C/Swift), Cross-platform mobile development  | 10.06.2021 | [click](http://pmiqaz.org/) |
-| Kolesa Group | Kolesa Academy  | ?  |   +   |  PHP  | 23.06.2021 | [click](https://job.kolesa.kz/academy) |
-| Kcell  | KcellBigData | ? | ? | Business Analytics, Data Science, Data Engineering, DevOps | 09.05.2021 | [click](https://www.linkedin.com/feed/update/urn:li:activity:6795888432456454144) |    
-| One Technologies  | One Lab         | Remote  |   +   | Backend (Go, Scala, Java) | 17.05.2021 | [click](https://lab.one.kz) |
-| Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  Web QA Automation  | 26.04.2021 | [click](https://upgrade.kolesa.group/) |
-| Beeline    | Digital Generation    | ? |   +   | 10 professional directions (IT included)  | ? (previous year - 15.05.2020 | [click](https://www.linkedin.com/feed/update/urn:li:activity:6778274442947760128/)/[previous year](https://beeline.kz/ru/hr/internship-at-beeline) |
-| Samruk-Kazyna    | Digital Summer    | Almaty, Nur-Sultan |   +   | Software Development (PHP, Python, Ruby, Node.js, .NET), UX/UI Design, Business/Data Analytics, System/Network Administration | 31.03.2021 | [click](https://digital-summer.sk.kz/ru/page/about) |
-| Jusan Bank | JUSAN SINGULARITY | ? |   +  |  Backend (Java), Frontend, iOS, Android, Devops  | Limited number of places | [click](https://jusan.kz/jusan-singularity) |
-| Kaspi Bank       | Kaspi Lab           | Almaty           |   -   | Data Science, .NET, Java                             | 22.02.2021 | [click](https://lab.kaspi.kz/)               |
-| Kolesa Group      | Kolesa Upgrade  | Remote  |   -   |  Product Management  | 08.02.2021 | [click](https://upgrade.kolesa.group/management) |
-| Chocofamily      | ChocoDevInternship  | Almaty  |   +   | Backend (PHP, Python), Frontend (JS, Angular, VUE), Mobile iOS (Objective-C, Swift), Mobile Android (Java, Kotlin), DevOps, QA         | 17.12.2020 | [click](https://chocofamily.kz/internship) |
-| Wooppay          | Лаборатория Wooppay | Karagandy        |   ?   | UX/UI Design, PHP, Mobile iOS, Project Management    | ?          | [click](https://landing.wooppay.com/academy) |
-| One Technologies | One Lab             | Remote           |   -   | Backend Go, Frontend Web, Mobile iOS, Mobile Android | 27.11.2020 | [click](https://lab.one.kz/)                 |
-| Home Credit Bank | IT Hub              | ?                |   ?   | Java, Data Analytics, Regression Testing             | 15.11.2020 | [click](https://promo.homecredit.kz/ithub/)  |
-| Kolesa Group     | Kolesa Academy      | Remote           |   +   | PHP                                                  | 09.11.2020 | [click](https://job.kolesa.kz/academy)       |
-| Kaspi Bank       | Kaspi Lab           | Almaty           |   -   | Data Science, Data Engineering, iOS, Android         | 25.03.2020 | [click](https://lab.kaspi.kz/)               |
+| Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   |
+| ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- |
+|  Tinkoff Bank    |  [Tinkoff Start](https://fintech.tinkoff.ru/start/)       | Nur-Sultan, Almaty | +   | Analytics, QA-Engineering, SRE, Java, Frontend , Scala, .NET, Go, ML-engineer, Python, C++, Android, IOS Development | 21.12.2022 |
+|  One Technologies | [One Lab](https://lab.one.kz/)  | ?  | + |  QA, Scala, Angular, iOS, Go, Android  | 05.10.2022 |
+|  KazDream Technologies | [Стажировка](https://www.instagram.com/kazdream.kz/)    | ?  | ? |  Angular, Go, DevOps, QA  | ? |
+| Akvelon        | [React.js](https://t.me/akvelon_KZ_jobs/88)   | Remote  |   +   |  React, Redux, TypeScript  | 28.08.2022 |
+| Halyk Bank        | [Halyk Academy](http://halykacademy.kz/DevOps)    | Remote  |   -   |  DevOps  | 25.08.2022 |
+| Akvelon      | [.NET Internship](https://t.me/akvelon_KZ_jobs/86)   | Remote  |   +   |  OOP, C#, .NET, ASP.NET Core WebAPI, MSSQL/PostgreSQL/MySQL | 28.08.2022|
+| Тинькофф Банк      | [Tinkoff Start]((https://fintech.tinkoff.ru/study/start/) )  | Nur-Sultan, Almaty  |   +   |  Analytics, QA-Engineering, SRE, Java, Frontend , Scala, .NET, Go, Android, IOS Development  | 16.08.2022|
+| Kolesa Group      | [Kolesa Upgrade](https://upgrade.kolesa.group/backend)   | Remote  |   -   |  PHP & Go  | 28.08.2021 |
+| Kaspi.kz | [Kaspi Lab](https://hr.kaspi.kz/data-base-administrator/)  | Almaty | ? | MS SQL, Oracle | 22.07.2022? |
+| STRONG te.am | [-](http://tiny.cc/strongteaminternship)  | Almaty | + | iOS, Android, Java Backend | 07.06.2022 |
+| One Technologies | [One Lab](https://lab.one.kz)  | Almaty |   +  |  Backend GO  | 25.05.2022 |
+| Kolesa Group | [Kolesa Academy](https://job.kolesa.kz/academy/)  | Almaty |   +  |  Mobile iOS  | 05.06.2022 |
+| Jusan Bank | [JUSAN SINGULARITY](https://singularity.camp/)  | Nur-Sultan |   +  |  Java Backend, Frontend, IOS, Android, DevOps  | ? |
+| nFactorial School | [nFactorial Incubator](https://www.instagram.com/p/Cb-BRF-sXAt/)  | Almaty |   -   | Web development  | 30.04.2022 |
+| Arcana Inc. | [Arcana Стажировка](https://www.instagram.com/p/CcAYxxvjCzv/)  | Remote/Almaty |   -   | iOS, Android, Python, React, UX/UI, Management  | 20.04.2022 |
+| One Technologies | [One Lab](https://lab.one.kz) | Remote           |   +   | QA, Angular, iOS, React, Scala, Java, Business Analytics  | 11.03.2022 |
+| Petrel AI | [Frontend Development Program](https://www.instagram.com/p/CaPCWwmMbi-/)  | ? |   +   |  Frontend  | ? |
+| Kolesa Group | [Kolesa Academy](https://job.kolesa.kz/academy#ds-vacancy)  | Almaty |   +   |  Data Analyst  | 25.02.2022 |
+| Kolesa Group | [Kolesa Academy](https://job.kolesa.kz/academy#php-vacancy)  | Almaty |   +   |  PHP  | 20.02.2022 |
+| Chocofamily | [ChocoDev Internship](https://chocofamily.kz/internship.html)  | Almaty |   +  |  Frontend, Backend (Python), iOS, Android  | 12.12.2021 |
+| Kaspi.kz | [Kaspi Lab](https://www.linkedin.com/posts/kaspi-kz_kaspi-lab-%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D1%8F%D0%B5%D1%82-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BD%D0%B0-%D0%BE%D0%BF%D0%BB%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D1%83%D1%8E-activity-6863695489938800640-Fmn2/) | Remote+Almaty |  +   |  Product Management   | 19.11.2021 |
+| Kaspi.kz | [Kaspi Lab](https://www.instagram.com/p/CU4Cbvssb1v/?utm_medium=copy_link)  | Remote |  -   |  Data Engineering   | 21.10.2021 |
+| Sprint Squads | [S10S](https://sprintsquads.com/blog/sprint-squads-otkryvaet-ezhegodnyy-nabor-na-stazhirovku) | Almaty |   ?   |  Backend (Go, Java), Frontend (Angular, Vue), iOS (Swift), Android (Kotlin), QA   | 01.10.2021 |
+| Kolesa Group | [Kolesa Upgrade](https://upgrade.kolesa.group/frontend)  | Remote |   -   |  Frontend  | 10.09.2021 |
+| Kolesa Group | [Kolesa Academy](https://job.kolesa.kz/academy#qa-vacancy)  | Almaty |   +   |  QA  | 22.08.2021 |
+| PMI Kazakhstan | [-](http://pmiqaz.org/)   | Remote/Nur-Sultan  |   ?   |  Android (Java/Kotlin), iOS (Objective-C/Swift), Cross-platform mobile development  | 10.06.2021 |
+| Kolesa Group | [Kolesa Academy](https://job.kolesa.kz/academy)  | ?  |   +   |  PHP  | 23.06.2021 |
+| Kcell  | [KcellBigData](https://www.linkedin.com/feed/update/urn:li:activity:6795888432456454144) | ? | ? | Business Analytics, Data Science, Data Engineering, DevOps | 09.05.2021 |  
+| One Technologies  | [One Lab](https://lab.one.kz) | Remote  |   +   | Backend (Go, Scala, Java) | 17.05.2021 |
+| Kolesa Group      | [Kolesa Upgrade](https://upgrade.kolesa.group/)   | Remote  |   -   |  Web QA Automation  | 26.04.2021 |
+| Beeline    | [Digital Generation](https://www.linkedin.com/feed/update/urn:li:activity:6778274442947760128/) / [previous year](https://beeline.kz/ru/hr/internship-at-beeline) | ? |   +   | 10 professional directions (IT included)  | ? (previous year - 15.05.2020 |
+| Samruk-Kazyna    | [Digital Summer](https://digital-summer.sk.kz/ru/page/about) | Almaty, Nur-Sultan |   +   | Software Development (PHP, Python, Ruby, Node.js, .NET), UX/UI Design, Business/Data Analytics, System/Network Administration | 31.03.2021 |
+| Jusan Bank | [JUSAN SINGULARITY](https://jusan.kz/jusan-singularity)  | ? |   +  |  Backend (Java), Frontend, iOS, Android, Devops  | Limited number of places |
+| Kaspi Bank       | [Kaspi Lab](https://lab.kaspi.kz/) | Almaty           |   -   | Data Science, .NET, Java                             | 22.02.2021 |
+| Kolesa Group      | [Kolesa Upgrade](https://upgrade.kolesa.group/management)   | Remote  |   -   |  Product Management  | 08.02.2021 |
+| Chocofamily | [ChocoDevInternship](https://chocofamily.kz/internship) | Almaty | + | Backend (PHP, Python), Frontend (JS, Angular, VUE), Mobile iOS (Objective-C, Swift), Mobile Android (Java, Kotlin), DevOps, QA | 17.12.2020 |
+| Wooppay          | [Лаборатория Wooppay](https://landing.wooppay.com/academy)  | Karagandy        |   ?   | UX/UI Design, PHP, Mobile iOS, Project Management    | ?          |
+| One Technologies | [One Lab](https://lab.one.kz/) | Remote           |   -   | Backend Go, Frontend Web, Mobile iOS, Mobile Android | 27.11.2020 |
+| Home Credit Bank | [IT Hub](https://promo.homecredit.kz/ithub/) | ?                |   ?   | Java, Data Analytics, Regression Testing             | 15.11.2020 |  
+| Kolesa Group | [Kolesa Academy](https://job.kolesa.kz/academy) | Remote           |   +   | PHP                                                  | 09.11.2020 |
+| Kaspi Bank | [Kaspi Lab](https://lab.kaspi.kz/) | Almaty | - | Data Science, Data Engineering, iOS, Android         | 25.03.2020 |
 
-
-
-
-## Internships to consider anytime:
+## Internships to consider anytime
 
 | Company name          | Internship          | Link                                                                                                                        | Extra information
 | --------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- |
