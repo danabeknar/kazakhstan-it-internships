@@ -20,7 +20,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Akvelon        | [React.js](https://t.me/akvelon_KZ_jobs/88)   | Remote  |   +   |  React, Redux, TypeScript  | 28.08.2022 |
 | Halyk Bank        | [Halyk Academy](http://halykacademy.kz/DevOps)    | Remote  |   -   |  DevOps  | 25.08.2022 |
 | Akvelon      | [.NET Internship](https://t.me/akvelon_KZ_jobs/86)   | Remote  |   +   |  OOP, C#, .NET, ASP.NET Core WebAPI, MSSQL/PostgreSQL/MySQL | 28.08.2022|
-| Тинькофф Банк      | [Tinkoff Start]((https://fintech.tinkoff.ru/study/start/) )  | Nur-Sultan, Almaty  |   +   |  Analytics, QA-Engineering, SRE, Java, Frontend , Scala, .NET, Go, Android, IOS Development  | 16.08.2022|
+| Тинькофф Банк      | [Tinkoff Start](https://fintech.tinkoff.ru/study/start/)  | Nur-Sultan, Almaty  |   +   |  Analytics, QA-Engineering, SRE, Java, Frontend , Scala, .NET, Go, Android, IOS Development  | 16.08.2022|
 | Kolesa Group      | [Kolesa Upgrade](https://upgrade.kolesa.group/backend)   | Remote  |   -   |  PHP & Go  | 28.08.2021 |
 | Kaspi.kz | [Kaspi Lab](https://hr.kaspi.kz/data-base-administrator/)  | Almaty | ? | MS SQL, Oracle | 22.07.2022? |
 | STRONG te.am | [-](http://tiny.cc/strongteaminternship)  | Almaty | + | iOS, Android, Java Backend | 07.06.2022 |
