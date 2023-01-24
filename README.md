@@ -14,6 +14,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- |
+|  DataArt | [Internship to apply](https://www.dataart.team/vacancies/QAS460)<br />[About process](https://www.dataart.team/ru/career/for-trainee)  | Almaty, Astana  | + |  QA  | 31.01.2023 |
 |  Tinkoff Bank    |  [Tinkoff Start](https://fintech.tinkoff.ru/start/)       | Nur-Sultan, Almaty | +   | Analytics, QA-Engineering, SRE, Java, Frontend , Scala, .NET, Go, ML-engineer, Python, C++, Android, IOS Development | 21.12.2022 |
 |  One Technologies | [One Lab](https://lab.one.kz/)  | ?  | + |  QA, Scala, Angular, iOS, Go, Android  | 05.10.2022 |
 |  KazDream Technologies | [Стажировка](https://www.instagram.com/kazdream.kz/)    | ?  | ? |  Angular, Go, DevOps, QA  | ? |
