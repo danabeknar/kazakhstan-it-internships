@@ -14,6 +14,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- |
+| STRONG te.am | [STRONG te.am Internship](https://clck.ru/33duPQ) | Almaty | + | Backend, Frontend, iOS, Android, Design | 11.05.2023 |
 | Yandex Academy | [Летняя школа](https://clck.ru/33duPQ) | Russia, Kazakhstan, Serbia | - | Frontend: HTML, CSS, JS; Backend: Python, Java, C++, Go; Mobile: Android, IOS, Flutter | 14.03.2023 |
 |  One Technologies | [One Lab](https://lab.one.kz/)  | Almaty, Astana /Remote  | + |  Backend Go, System Analyst, Mobile iOS, Mobile Android  | 07.03.2023 |
 |  red\_mad\_robot | [bootcamp](https://www.redmadrobot.kz/bootcamp) | Remote  | - |  Flutter, Java, QA, BA  | 12.02.2023 |
