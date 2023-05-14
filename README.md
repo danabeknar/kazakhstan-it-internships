@@ -14,6 +14,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- |
+| Bank CenterCredit | [IT школа BCC](https://www.linkedin.com/posts/bank-centercredit_%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F-%D0%BC%D1%8B-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D0%BC-it-%D1%88%D0%BA%D0%BE%D0%BB%D1%83-bcc-%D0%B8%D1%89%D0%B5%D0%BC-activity-7061979873996615680-lfJ3?utm_source=share&utm_medium=member_desktop) | Almaty | ? | PL SQL | ? (Start on June 5th, 2023.) |
 | STRONG te.am | [STRONG te.am Internship](https://t.me/oppo4you/2931) | Almaty | + | Backend, Frontend, iOS, Android, Design | 11.05.2023 |
 | Yandex Academy | [Летняя школа](https://clck.ru/33duPQ) | Russia, Kazakhstan, Serbia | - | Frontend: HTML, CSS, JS; Backend: Python, Java, C++, Go; Mobile: Android, IOS, Flutter | 14.03.2023 |
 |  One Technologies | [One Lab](https://lab.one.kz/)  | Almaty, Astana /Remote  | + |  Backend Go, System Analyst, Mobile iOS, Mobile Android  | 07.03.2023 |
