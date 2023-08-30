@@ -77,6 +77,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Name          | Link | Tuition fee? | Extra information
 | --------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Alabs Academy | [click](https://alabs.academy/) | +/Free | ТОП 10 IT компания в Казахстане. Практические знания, которые увеличат твой доход. Лучшие преподаватели с многолетним стажем. Возможность обучаться бесплатно. Android/iOS/React JS/BA/QA/Java |
 | Alem School       | [click](https://alem.school/) | - | First programming school in Central Asia based on the principles of mutual learning |
 | nFactorial School | [click](https://www.nfactorial.school/) | + | Онлайн-школа подготовки разработчиков  |
 | QWANT | [click](https://qwant.kz/) | + | Silicon Valley Certified Programming School |
