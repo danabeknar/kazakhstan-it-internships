@@ -14,6 +14,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- |
+| Kcell | [Winter Camp](http://wintercamp.kcell.kz/) | Almaty | + | Python, UX/UI, Anti-Fraud, QA, RPA | 20.12.2023 |
 | Kcell | [BootCamp Kcell](https://www.linkedin.com/posts/yuliya-vassilenko-b99917235_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D0%B6%D0%B5%D1%80-%D0%B2-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%83-ios-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-activity-7073948539088723968-qXou) | ? | + | iOS, Android, UX/UI, Backend (python) | ? |
 | Bank CenterCredit | [IT школа BCC](https://www.linkedin.com/posts/bank-centercredit_%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F-%D0%BC%D1%8B-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D0%BC-it-%D1%88%D0%BA%D0%BE%D0%BB%D1%83-bcc-%D0%B8%D1%89%D0%B5%D0%BC-activity-7061979873996615680-lfJ3?utm_source=share&utm_medium=member_desktop) | Almaty | ? | PL SQL | ? (Start on June 5th, 2023.) |
 | STRONG te.am | [STRONG te.am Internship](https://t.me/oppo4you/2931) | Almaty | + | Backend, Frontend, iOS, Android, Design | 11.05.2023 |
