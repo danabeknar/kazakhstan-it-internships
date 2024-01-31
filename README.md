@@ -14,6 +14,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- |
+| Kolesa Group | [Kolesa Academy](https://kolesa.group/education/academy/data-academy-2024-stazhirovka)  | Almaty |   +   |  Data Analyst  | 20.02.2024 |
 | Arcana Inc. | [Internship](https://www.instagram.com/stories/highlights/18304208518131697/) | Almaty | ? |  Backend (Python), React| 05.02.2024 |
 | Kcell | [Winter Camp](http://wintercamp.kcell.kz/) | Almaty | + | Python, UX/UI, Anti-Fraud, QA, RPA | 20.12.2023 |
 | Kcell | [BootCamp Kcell](https://www.linkedin.com/posts/yuliya-vassilenko-b99917235_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D0%B6%D0%B5%D1%80-%D0%B2-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%83-ios-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-activity-7073948539088723968-qXou) | ? | + | iOS, Android, UX/UI, Backend (python) | ? |
@@ -87,8 +88,8 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 ## Contributing
 
-Feel free to contribute, I need your help :)  
-[Fill out this form](https://forms.gle/8CKj1K33m3iDAZNF6) or open a pull request.
+Feel free to contribute, I need your help 🙂<br />
+Text me on [Telegram](https://t.me/beknar)
 
 ## Credits
 
