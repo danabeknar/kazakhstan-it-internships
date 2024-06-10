@@ -14,6 +14,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- |
+| Kcell | [Kcell Summer Camp](https://almaty.hh.kz/vacancy/101605356)  | Almaty |   +   |  Data Analyst (Python, SQL)  | ? |
 | ONE Technologies | [ONE Lab](https://lab.one.kz/)  | Remote |   +   |  iOS, Android, PHP, Java, Angular, React  | 18.02.2024 |
 | Kolesa Group | [Kolesa Academy](https://kolesa.group/education/academy/data-academy-2024-stazhirovka)  | Almaty |   +   |  Data Analyst  | 20.02.2024 |
 | Arcana Inc. | [Internship](https://www.instagram.com/stories/highlights/18304208518131697/) | Almaty | ? |  Backend (Python), React| 05.02.2024 |
