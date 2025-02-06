@@ -14,6 +14,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- |
+| DataArt | [JavaScript Trainee](https://www.dataart.team/vacancies/JSC00218)  | Almaty |   +   |  JS, TypeScript, React  | ? |
 | DataArt | [.NET Trainee](https://www.dataart.team/vacancies/NET00198)  | Almaty |   +   |  C#, .NET  | ? |
 | Kcell | [Kcell Summer Camp](https://almaty.hh.kz/vacancy/101604126)  | Almaty |   +   |  Data Science (Python, R, SQL)  | ? |
 | Kcell | [Kcell Summer Camp](https://almaty.hh.kz/vacancy/101605356)  | Almaty |   +   |  Data Analyst (Python, SQL)  | ? |
