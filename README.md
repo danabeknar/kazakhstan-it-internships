@@ -14,6 +14,8 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- |
+| Vention | [Frontend Intern](https://join.ventionteams.com/job-openings/internship-frontend-almaty)  | Almaty |   ?   |  JS, TS, Angular/React/Vue  | ? |
+| Vention | [QA Intern](https://join.ventionteams.com/job-openings/internship-qa-manual-almaty)  | Almaty |   ?   | Manual Web/Mobile Testing  | ? |
 | DataArt | [JavaScript Trainee](https://www.dataart.team/vacancies/JSC00216)  | Almaty |   +   |  JS, TypeScript, React  | ? |
 | DataArt | [.NET Trainee](https://www.dataart.team/vacancies/NET00198)  | Almaty |   +   |  C#, .NET  | ? |
 | Kcell | [Kcell Summer Camp](https://almaty.hh.kz/vacancy/101604126)  | Almaty |   +   |  Data Science (Python, R, SQL)  | ? |
