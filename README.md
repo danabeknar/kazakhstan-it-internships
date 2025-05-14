@@ -13,7 +13,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 ## Kazakhstani internship opportunities
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- |
-| Kcell | [Kcell Summer Camp](https://tinyurl.com/yc7wnksa)  | Almaty |   +   |  QA, System Analyst, UX/UI Design  | ? |
+| Kcell | [Kcell Summer Camp](https://kcellcamp.kz/)  | Almaty |   +   |  QA, System Analyst, UX/UI Design  | ? |
 | Vention | [Frontend Intern](https://join.ventionteams.com/job-openings/internship-frontend-almaty)  | Almaty |   ?   |  JS, TS, Angular/React/Vue  | ? |
 | Vention | [QA Intern](https://join.ventionteams.com/job-openings/internship-qa-manual-almaty)  | Almaty |   ?   | Manual Web/Mobile Testing  | ? |
 | DataArt | [JavaScript Trainee](https://www.dataart.team/vacancies/JSC00216)  | Almaty |   +   |  JS, TypeScript, React  | ? |
